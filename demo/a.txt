@@ -9,8 +9,14 @@ d delete
   2. 没有add到暂存区,就pull我们的代码就会作废
     拉代码之前,先要把自己写的暂时保存到暂存区(add)
   3.
-    本地开发  -> 暂存区  : git add xxx
+    3.1 本地开发  -> 暂存区  : git add xxx
       git add . [提交所有文件]
-    暂存区   -> 本地仓库 : git commit -m "xxx"
+    3.2 暂存区   -> 本地仓库 : git commit -m "xxx"
       xxx 有个:
+    3.3 本地仓库 -> 远程仓库 : git push
+
+  4. 
+    git checkout -b xxx 创建一个分支(从main里复制产生你的分支)
+  5. 从main里拉去代码
+    5.1 切换到main
         
