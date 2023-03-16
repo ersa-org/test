@@ -8,7 +8,7 @@ const MoveDecorator: ClassDecorator = (constructor: Function) => {
 @MoveDecorator
 class Tank {
   constructor() {
-    console.log('tank 构造函数')
+    console.log('tank 构造函d数')
   }
 }
 const tank = new Tank()
