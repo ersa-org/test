@@ -1,1 +1,2 @@
-var name ="robin"
+var name = "robin"
+var age = 33;
