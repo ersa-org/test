@@ -2,7 +2,7 @@
 
 def test():
   print("test")
-  print("hello mnk")
 
+  print("hello mnk")
 
 
