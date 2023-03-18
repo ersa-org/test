@@ -17,10 +17,4 @@ d delete
 
   4. 
     git checkout -b xxx 创建一个分支(从main里复制产生你的分支)
-  5. 从main里拉去代码
-<<<<<<< HEAD
-    5.1 切换到main
-=======
-    5.1
->>>>>>> main
-        
+  5.sddasd dasddjie d sdad  asdsa dsa d asdas java python javascript go git clone from github
