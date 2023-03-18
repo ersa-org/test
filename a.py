@@ -1,4 +1,5 @@
 
 def test():
   print("test")
-print("liyang")
+print("hello 杨国辉")
+print("nihao ")
