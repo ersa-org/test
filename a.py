@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-import sys
-
-print("1")
-=======
 
 def test():
   print("test")
->>>>>>> main
+print("hello 杨国辉")
